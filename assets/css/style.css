@@ -1,0 +1,62 @@
+#header {
+	background: #333;
+	height: 70px;
+	color: lightgoldenrodyellow;
+}
+
+#header h1 {
+	line-height: 70px;
+	margin: 0px;
+}
+
+h3 {
+    color: black;
+}
+
+#subheader {
+    color: black;
+    padding-top: 1px;
+    line-height: 20px;
+}
+
+#row2 {
+	padding-top: 5%;
+}
+
+#randomSchool {
+	letter-spacing: 4px;
+	font-size: x-large;
+	margin-top: 5%;
+}
+
+#guessed {
+	padding-top: 15px;
+	font-size: large;
+	letter-spacing: 5px;
+}
+
+#remainingGuesses {
+	font-size: large;
+}
+
+#footer {
+	background: #333;
+	height: 60px;
+	color: lightgoldenrodyellow;
+}
+
+#footer p {
+	line-height: 60px;
+	margin: 0px;
+}
+
+#confLogo {
+    padding-bottom: 20px;
+}
+
+/*@media (min-width: @screen-sm-min) {
+	#randomWord {
+		margin: 25%;
+	}
+	
+}*/
