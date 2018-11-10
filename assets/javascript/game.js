@@ -75,11 +75,3 @@ window.onload = function() {
     }   
    
     }
-    
-    
-    
-    
-    
-    
-    
-    
