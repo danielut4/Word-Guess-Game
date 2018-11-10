@@ -1,7 +1,7 @@
 #header {
 	background: #333;
 	height: 70px;
-	color: lightgoldenrodyellow;
+	color: navajowhite;
 }
 
 #header h1 {
@@ -9,14 +9,9 @@
 	margin: 0px;
 }
 
-h3 {
-    color: black;
-}
+#header h3 {
+    color: #333;
 
-#subheader {
-    color: black;
-    padding-top: 1px;
-    line-height: 20px;
 }
 
 #row2 {
@@ -42,7 +37,7 @@ h3 {
 #footer {
 	background: #333;
 	height: 60px;
-	color: lightgoldenrodyellow;
+	color: navajowhite;
 }
 
 #footer p {
@@ -53,10 +48,3 @@ h3 {
 #confLogo {
     padding-bottom: 20px;
 }
-
-/*@media (min-width: @screen-sm-min) {
-	#randomWord {
-		margin: 25%;
-	}
-	
-}*/
